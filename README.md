@@ -1,11 +1,13 @@
-#cloning a project
-git clone <dir>
+# Cloning a project
 
-# to run python 
-1.open a terminal
+git clone https://github.com/meanish/VideoConvertor.git
+
+# to run PYTHON 
+1. open a terminal
 2. in main dir , python main.py
 
-# to run react
+
+# to run REACT
 1. change dir , cd client-convertor
 2. install node_modules, npm i
 3. run project, npm start
