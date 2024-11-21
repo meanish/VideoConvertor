@@ -1,5 +1,6 @@
-#cloning a project
-git clone <dir>
+# Cloning a project
+
+git clone https://github.com/meanish/VideoConvertor.git
 
 # to run PYTHON 
 1. open a terminal
