@@ -1,15 +1,24 @@
-# Cloning a project
+# Project Setup Instructions
 
+## Cloning the Repository
+To clone the project, run the following command:
+
+```bash
 git clone https://github.com/meanish/VideoConvertor.git
 
-# to run PYTHON 
-1. open a terminal
-2. in main dir , python main.py
+# Running the Python Backend
+1. Open a terminal.
+2.Navigate to the project’s root directory.
+3.Run the following command to start the backend:
+   python main.py
 
 
-# to run REACT
-1. change dir , cd client-convertor
-2. install node_modules, npm i
-3. run project, npm start
-4. Local port 3000 will run shortly
-   
+# Running the React Frontend
+1.Change to the client directory:
+cd client-convertor
+2.Install the required dependencies:
+npm install
+npm start
+3.The frontend will be available at http://localhost:3000.
+
+Now you're all set to run both the backend and frontend parts of the project!
